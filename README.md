@@ -58,7 +58,22 @@ shell-ita $~ Salir
 
 ## Funcionalidades Extra 🛠️
 
-_Próximamente_
+_Cambio de color_
+_se puede cambiar el color del terminal con los siguientes comandos_
+
+```
+shell-ita $~ color rojo
+```
+```
+shell-ita $~ color verde
+```
+```
+shell-ita $~ color azul
+```
+```
+shell-ita $~ dolor default
+```
+
 
 ## Autores ✒️
 
