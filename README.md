@@ -71,7 +71,7 @@ shell-ita $~ color verde
 shell-ita $~ color azul
 ```
 ```
-shell-ita $~ dolor default
+shell-ita $~ color default
 ```
 
 
